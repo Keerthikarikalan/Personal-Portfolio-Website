@@ -1,0 +1,9 @@
+Database: MongoDB
+
+Collection: Projects
+
+Fields:
+
+title
+description
+githubLink
